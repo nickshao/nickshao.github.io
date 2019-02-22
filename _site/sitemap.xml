@@ -20,10 +20,12 @@
     
   
     
+  
+    
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2019-02-18T19:49:46+08:00</lastmod>
+        <lastmod>2019-02-22T15:56:22+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,7 +40,7 @@
     <url>
       <loc>http://localhost:4000/humans.txt</loc>
       
-        <lastmod>2019-02-18T19:49:46+08:00</lastmod>
+        <lastmod>2019-02-22T15:56:22+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -57,7 +59,7 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
-        <lastmod>2019-02-18T19:49:46+08:00</lastmod>
+        <lastmod>2019-02-22T15:56:22+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

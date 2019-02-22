@@ -1,17 +1,17 @@
 # Site settings
 title: Nick Shao
-description: 'Nick Shao - a minimal, responsive theme for Jekyll'
+description: 'Nick Shao - :)'
 url: 'https://nickshao.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
+  name: 'Nick Shao'
+  email: nniicckk669977@gmail.com
   #twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
+  facebook_username: nickshao0208
+  github_username:  nickshao
   linkedin_username:  joshgerdes
 
 defaults:
